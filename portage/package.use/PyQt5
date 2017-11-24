@@ -1,1 +1,1 @@
-dev-python/PyQt5 -binist printsupport -webkit webchannel declarative widgets webengine
+dev-python/PyQt5 -binist opengl gui printsupport -webkit network webchannel declarative widgets webengine

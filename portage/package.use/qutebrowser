@@ -1,1 +1,49 @@
 www-client/qutebrowser webengine -webkit
+# required by dev-qt/qtwebengine-5.9.2::gentoo
+# required by dev-python/PyQt5-5.7.1::gentoo[webengine]
+# required by PyQt5 (argument)
+>=sys-libs/zlib-1.2.11-r1 minizip
+# required by dev-qt/qtcore-5.9.2::gentoo
+# required by dev-qt/qttest-5.9.2::gentoo
+# required by dev-qt/qtdeclarative-5.9.2::gentoo[-test]
+# required by dev-qt/qtwebengine-5.9.2::gentoo
+# required by dev-python/PyQt5-5.7.1::gentoo[webengine]
+# required by PyQt5 (argument)
+>=dev-libs/libpcre2-10.30 pcre16
+# required by x11-libs/pango-1.40.6::gentoo
+# required by x11-misc/dunst-1.1.0::gentoo
+# required by virtual/notification-daemon-0::gentoo[-kde,-gnome]
+# required by x11-libs/libnotify-0.7.7::gentoo
+# required by libnotify (argument)
+>=media-libs/harfbuzz-1.4.6-r2 truetype
+# required by dev-qt/qtwebengine-5.9.2::gentoo
+# required by dev-python/PyQt5-5.7.1::gentoo[webengine]
+# required by PyQt5 (argument)
+>=dev-qt/qtwebchannel-5.9.2 qml
+# required by dev-qt/qtwebengine-5.9.2::gentoo
+# required by dev-python/PyQt5-5.7.1::gentoo[webengine]
+# required by PyQt5 (argument)
+>=media-libs/libvpx-1.5.0 svc
+# required by x11-misc/i3lock-2.8::gentoo
+# required by x11-misc/i3lock (argument)
+>=x11-libs/cairo-1.14.8 xcb
+# required by dev-python/PyQt5-5.7.1::gentoo[webengine]
+# required by PyQt5 (argument)
+>=dev-qt/qtwebengine-5.9.2 widgets
+# required by x11-libs/libxkbcommon-0.7.1::gentoo[X]
+# required by x11-misc/i3lock-2.8::gentoo
+# required by x11-misc/i3lock (argument)
+>=x11-libs/libxcb-1.12-r2 xkb
+# required by media-sound/ncmpcpp-0.7.7::gentoo[unicode]
+# required by ncmpcpp (argument)
+>=dev-libs/boost-1.62.0-r1 icu
+# required by x11-misc/urxvtconfig-1.0::gentoo
+# required by urxvtconfig (argument)
+>=x11-terms/rxvt-unicode-9.21 xft
+# required by x11-misc/urxvtconfig-1.0::gentoo
+# required by urxvtconfig (argument)
+>=dev-qt/qtsingleapplication-2.6.1_p20150629 qt5
+# required by dev-qt/qtsingleapplication-2.6.1_p20150629::gentoo
+# required by x11-misc/urxvtconfig-1.0::gentoo
+# required by urxvtconfig (argument)
+>=dev-qt/qtlockedfile-2.4.1_p20150629 qt5
