@@ -1,0 +1,95 @@
+#required by qutebrowser
+=www-client/qutebrowser-0.11.1 **
+# required by i3blocks (argument)
+=x11-misc/i3blocks-1.4-r1 ~amd64
+# required by maim (argument)
+=media-gfx/maim-3.4.47 ~amd64
+# required by w3mimgfb (argument)
+=media-gfx/w3mimgfb-0.9.1 ~amd64
+# required by pythonutils (argument)
+=dev-python/pythonutils-0.4.0-r1 ~amd64
+# required by x11-misc/i3blocks-1.4-r1::gentoo
+# required by i3blocks (argument)
+=media-sound/playerctl-0.5.0 ~amd64
+# required by x11-misc/slop (argument)
+=x11-misc/slop-4.3.21 ~amd64
+# required by dev-scheme/termite-0.15-r1::gentoo
+# required by termite (argument)
+=dev-scheme/gambit-4.8.8-r1 ~amd64
+# required by termite (argument)
+=dev-scheme/termite-0.15-r1 ~amd64
+# required by app-benchmarks/bootchart2 (argument)
+=app-benchmarks/bootchart2-0.14.7-r1 ~amd64
+# required by lolcat (argument)
+=games-misc/lolcat-42.1.43 ~amd64
+# required by games-misc/lolcat-42.1.43::gentoo[ruby_targets_ruby21]
+# required by lolcat (argument)
+=dev-ruby/paint-2.0.0 ~amd64
+# required by sys-apps/apparmor-utils-2.11.0-r1::gentoo
+# required by apparmor-utils (argument)
+=sys-apps/apparmor-2.11.0 ~amd64
+# required by apparmor-profiles (argument)
+=sec-policy/apparmor-profiles-2.11.0 ~amd64
+# required by sys-apps/apparmor-utils-2.11.0-r1::gentoo
+# required by apparmor-utils (argument)
+=sys-libs/libapparmor-2.11.0-r1 ~amd64
+# required by apparmor-utils (argument)
+=sys-apps/apparmor-utils-2.11.0-r1 ~amd64
+# required by tlp (argument)
+=app-laptop/tlp-1.0 ~amd64
+# required by app-laptop/tlp-1.0::tlp
+dev-qt/*:5
+# required by tlp (argument)
+=sys-power/linux-x86-power-tools-3.17 ~amd64
+# required by qutebrowser (argument)
+=dev-python/pypeg2-2.15.2 ~amd64
+# required by qutebrowser (argument)
+=dev-python/pygments-2.2.0 ~amd64
+# required by wkhtmltopdf (argument)
+=media-gfx/wkhtmltopdf-0.12.4 ~amd64
+# required by media-video/obs-studio (argument)
+=media-video/obs-studio-20.0.1 ~amd64
+# required by net-libs/tox (argument)
+=net-libs/tox-0.1.10 ~amd64
+# required by qtox (argument)
+=net-im/qtox-1.11.0 ~amd64
+# required by toxic (argument)
+=net-im/toxic-0.8.0 ~amd64
+# required by qutebrowser (argument)
+=www-client/qutebrowser-0.9.1 ~amd64
+# required by polybar (argument)
+=x11-misc/polybar-9999 ~amd64
+# required by www-client/qutebrowser-9999::gentoo
+# required by qutebrowser (argument)
+=dev-python/setuptools-36.5.0 ~amd64
+# required by www-client/qutebrowser-9999::gentoo[python_targets_python3_6]
+# required by qutebrowser (argument)
+=dev-lang/python-3.6.3 ~amd64
+# required by qutebrowser (argument)
+=www-client/qutebrowser-0.11.1 ~amd64
+# required by icecat-bin (argument)
+=www-client/icecat-bin-52.3.0 ~amd64
+# required by net-proxy/obfs4proxy-0.0.7::gentoo
+# required by obfs4proxy (argument)
+=dev-go/siphash-1.0.0 ~amd64
+# required by net-proxy/obfs4proxy-0.0.7::gentoo
+# required by obfs4proxy (argument)
+=dev-go/go-net-0_pre20160216 ~amd64
+# required by net-proxy/obfs4proxy-0.0.7::gentoo
+# required by obfs4proxy (argument)
+=dev-go/ed25519-0_pre20160420 ~amd64
+# required by net-proxy/obfs4proxy-0.0.7::gentoo
+# required by obfs4proxy (argument)
+=dev-go/goptlib-0.6 ~amd64
+# required by dev-go/go-net-0_pre20160216::gentoo
+# required by net-proxy/obfs4proxy-0.0.7::gentoo
+# required by obfs4proxy (argument)
+=dev-go/go-text-0_pre20160211 ~amd64
+# required by dev-go/go-net-0_pre20160216::gentoo
+# required by net-proxy/obfs4proxy-0.0.7::gentoo
+# required by obfs4proxy (argument)
+=dev-go/go-crypto-0_pre20160126 ~amd64
+# required by obfs4proxy (argument)
+=net-proxy/obfs4proxy-0.0.7 ~amd64
+# required by pam-script (argument)
+=sys-auth/pam-script-1.1.8 ~amd64

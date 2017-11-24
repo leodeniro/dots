@@ -1,0 +1,9 @@
+pkgnum="$(ls -d /var/db/pkg/*/* | wc -l)"
+    pkgnum="$pkgnum"
+pkg="$(cat /var/lib/portage/world)"
+    pkg="$pkg"
+
+echo "$pkg"
+echo "$pkgnum packages in total."
+
+
