@@ -1,3 +1,4 @@
+#!/bin/sh
 pkgnum="$(ls -d /var/db/pkg/*/* | wc -l)"
     pkgnum="$pkgnum"
 pkg="$(cat /var/lib/portage/world)"
