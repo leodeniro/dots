@@ -1,0 +1,21 @@
+window.*.title.bg.color: #be918e
+window.*.label.text.color: #18181A
+window.*.button.*.image.color: #18181A
+menu.title.text.color: #FFFFFF
+menu.title.bg.color: #18181a
+
+# Borders
+
+window.handle.width: 0
+window.client.padding.width: 0
+border.width: 0
+
+
+# Title
+
+padding.width: 8
+padding.height: 8
+window.*.title.bg: Solid Flat
+window.*.*.bg: Parentrelative
+window.label.text.justify: center
+
