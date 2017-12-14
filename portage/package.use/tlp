@@ -1,5 +1,0 @@
-app-laptop/tlp tpacpi-bundled pm-utils
-# required by www-client/qutebrowser-9999::gentoo
-# required by @selected
-# required by @world (argument)
->=dev-python/PyQt5-5.9 sql

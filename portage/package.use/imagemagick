@@ -1,6 +1,0 @@
-media-gfx/imagemagick png jpeg
-media-libs/imlib2 gif jpeg png
-x11-terms/rxvt-unicode unicode3
-x11-misc/polybar mpd
-net-misc/ntp openntpd
-
