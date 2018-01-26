@@ -1,9 +1,0 @@
-[ebuild  N     ] net-wireless/rfkill-0.5-r2 
-[ebuild  N     ] sys-apps/hdparm-9.51  USE="-static" 
-[ebuild  N    ~] sys-power/linux-x86-power-tools-3.17 
-[ebuild  N     ] dev-libs/libusb-1.0.19-r1  USE="-debug -doc -examples -static-libs {-test} -udev" ABI_X86="(64) -32 (-x32)" 
-[ebuild  N     ] virtual/libusb-1-r2  USE="-udev" ABI_X86="(64) -32 (-x32)" 
-[ebuild  N     ] sys-apps/usbutils-008-r1  USE="-python" PYTHON_TARGETS="python2_7" 
-[ebuild  N    ~] app-laptop/tlp-1.0  USE="pm-utils tpacpi-bundled -bluetooth -rdw -tlp_suggests" 
-
-

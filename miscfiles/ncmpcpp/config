@@ -1,0 +1,2 @@
+ncmpcpp_directory = "~/.ncmpcpp"
+execute_on_song_change = "/home/kisame/.scripts/notify"

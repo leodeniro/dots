@@ -1,0 +1,3 @@
+#!/usr/local/bin/bash
+# Get fields from mpc, split by tabs.
+notify-send --urgency=low --expire-time=2000 "Low battery. Charge up!"

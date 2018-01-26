@@ -1,0 +1,2 @@
+#!/bin/sh
+maim -s /home/kisame/pictures/screenshots/$(date +%F-%T).png

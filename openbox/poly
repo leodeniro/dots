@@ -1,6 +1,0 @@
-#!/usr/bin/env sh
-killall -q polybar
-while pgrep -x polybar >/dev/null; do sleep 1; done
-nohup polybar top &
-sleep 1
-/home/kisame/.config/polybar/hideIt.sh-master/hideIt.sh  --name "polybar-top_LVDS1" --hover
