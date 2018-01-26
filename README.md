@@ -11,6 +11,6 @@
 - terminal emulator: `urxvt`
 - text editor: `vim`
 - video player: `mpv`
-- web browser: `iridium`
+- web browser: `iridium (basically ungoogled-chromium with other patches)`
 - window manager: `openbox`
 
